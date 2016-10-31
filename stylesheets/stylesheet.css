@@ -14,19 +14,19 @@ body {
 h1 {
   color: white;
   font-weight: 100;
-  font-size: 2.5rem;
-  letter-spacing: 2px;
+  font-size: 2.2rem;
+  letter-spacing: 1.5px;
   padding-left: 2rem;
-  padding-top: 4rem;
+  padding-top: 3rem;
 }
 
 header h3 {
   color: #AAA7AB;
   font-weight: 100;
   font-size: 1rem;
-  letter-spacing: 1px;
+  letter-spacing: 0.8px;
   padding-left: 2rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0.5rem;
   margin-top: -1rem;
 }
 
@@ -58,14 +58,15 @@ nav li a {
 
 main {
   background-color: white;
-  padding: 1rem 1rem 1rem 2rem;
+  padding: 1rem;
   overflow: auto;
 }
 
 main h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 100;
   letter-spacing: 1.5px;
+  margin-bottom: 0.5rem;
 }
 
 article, section {
@@ -77,18 +78,21 @@ article p {
   margin: 0;
   padding-bottom: 0.5rem;
   line-height: 1.3rem;
+  font-size: 0.9rem;
 }
 
 section p {
   padding-bottom: 0.5rem;
   line-height: 1.3rem;
+  font-size: 0.9rem;
   font-style: italic;
 }
 
 aside {
   border: 1px solid black;
   padding: 0 0.5rem;
-  margin-left: 65%;
+  margin-left: 63%;
+  margin-top: 0.5rem;
 }
 
 aside h3 {
