@@ -1,0 +1,34 @@
+main {
+  background-color: gray;
+}
+
+aside {
+  background-color: purple;
+  width: 36%;  
+  margin-left: 0;
+  border-style: hidden;
+  overflow: auto;
+}
+
+article, section {
+  float: right;
+  margin-right: 0.5rem;
+}
+
+aside {
+  color: white;
+  font-weight: 100;
+}
+
+figure figcaption {
+  font-size: 0.8rem;
+}
+
+.profile-list-item {
+  color: white;
+  line-height: 1.5rem;
+}
+
+#ocicat-cat {
+  background-color: chocolate;
+}
