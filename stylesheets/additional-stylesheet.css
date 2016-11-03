@@ -20,15 +20,24 @@ aside {
   font-weight: 100;
 }
 
-figure figcaption {
+aside p {
   font-size: 0.8rem;
 }
 
+aside li {
+  list-style-image: url('../images/footprint-cat-icon.png');
+}
+
 .profile-list-item {
+  font-size: 0.8rem;
   color: white;
   line-height: 1.5rem;
 }
 
+figure figcaption {
+  font-size: 0.8rem;
+}
+
 #ocicat-cat {
-  background-color: chocolate;
+  background-color: brown;
 }
